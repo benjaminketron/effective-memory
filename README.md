@@ -2,8 +2,9 @@
 Bython Canidate Test
 
 ## Requirements
-The task is to create a web application utilizing the MEAN Stack, http://mean.io/. The user stories are
+The task is to create a web application utilizing the MEAN Stack, http://mean.io/. Will be looking for unit tests and project structure as well as simplicty and clarity.
 
+### User Stories
 * As a user I would like to be able to use my Spotify account to login to the site.
 * As a user I would like to view a list of tracks in my Spotify library.
 * As a user I would like the list of tracks in my Spotify library to be stored in my local account for redundancy.
@@ -23,7 +24,12 @@ https://developer.spotify.com/web-api/get-information-about-the-users-current-pl
 
 https://www.sitepoint.com/user-authentication-mean-stack/
 
-## Wireframe
+## Wireframes
+The login page should be a title and Login button.
+
+The track list page should resemble.
 ![wireframe](wireframe.png)
+
+
 
 
