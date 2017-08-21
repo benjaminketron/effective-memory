@@ -26,6 +26,7 @@ https://developer.spotify.com/web-api/get-information-about-the-users-current-pl
 https://www.sitepoint.com/user-authentication-mean-stack/
 
 ## Wireframes
+
 Login page 
 ![login page wireframe](wireframe-login.png)
 
