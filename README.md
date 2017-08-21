@@ -26,10 +26,11 @@ https://developer.spotify.com/web-api/get-information-about-the-users-current-pl
 https://www.sitepoint.com/user-authentication-mean-stack/
 
 ## Wireframes
-The login page should be a title and Login button.
+Login page 
+![login page wireframe](wireframe-login.png)
 
-The track list page should resemble.
-![wireframe](wireframe.png)
+Track list page 
+![track list wireframe](wireframe-track-list.png)
 
 
 
